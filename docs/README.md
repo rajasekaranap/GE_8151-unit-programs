@@ -5,6 +5,82 @@
 
 ## Functions
 
+### binarySearch
+
+
+
+#### Parameters
+name | description | default
+--- | --- | ---
+alist |  | 
+item |  | 
+
+
+
+
+
+### add
+
+
+
+#### Parameters
+name | description | default
+--- | --- | ---
+numlst |  | 
+
+
+
+
+
+### linearsearch
+
+
+
+#### Parameters
+name | description | default
+--- | --- | ---
+num_list |  | 
+search |  | 
+
+
+
+
+
+### gcd
+
+
+
+#### Parameters
+name | description | default
+--- | --- | ---
+x |  | 
+y |  | 
+
+
+
+
+
+### square_root
+
+
+
+#### Parameters
+name | description | default
+--- | --- | ---
+n |  | 
+
+
+
+
+
+### swap_func
+
+
+
+
+
+
+
 ### circulate
 Authors: **kgashok**
 
@@ -44,52 +120,6 @@ name | description | default
 --- | --- | ---
 pointA |  | 
 pointB |  | 
-
-
-
-
-
-### swap_func
-
-
-
-
-
-
-
-### guess
-
-
-
-
-
-
-
-### tower_of_hanoi
-
-
-
-#### Parameters
-name | description | default
---- | --- | ---
-n |  | 
-fromTower |  | 
-toTower |  | 
-tempTower |  | 
-
-
-
-
-
-### insertCard
-
-
-
-#### Parameters
-name | description | default
---- | --- | ---
-deck |  | 
-newCard |  | 
 
 
 
@@ -137,48 +167,29 @@ aList |  |
 
 
 
-### binarySearch
+### guess
+
+
+
+
+
+
+
+### insertCard
 
 
 
 #### Parameters
 name | description | default
 --- | --- | ---
-alist |  | 
-item |  | 
+deck |  | 
+newCard |  | 
 
 
 
 
 
-### add
-
-
-
-#### Parameters
-name | description | default
---- | --- | ---
-numlst |  | 
-
-
-
-
-
-### gcd
-
-
-
-#### Parameters
-name | description | default
---- | --- | ---
-x |  | 
-y |  | 
-
-
-
-
-
-### square_root
+### tower_of_hanoi
 
 
 
@@ -186,60 +197,9 @@ y |  |
 name | description | default
 --- | --- | ---
 n |  | 
-
-
-
-
-
-### linearsearch
-
-
-
-#### Parameters
-name | description | default
---- | --- | ---
-num_list |  | 
-search |  | 
-
-
-
-
-
-### selectionsort
-
-
-
-#### Parameters
-name | description | default
---- | --- | ---
-alist |  | 
-
-
-
-
-
-### selectsort
-
-
-
-#### Parameters
-name | description | default
---- | --- | ---
-alist |  | 
-
-
-
-
-
-### selectsort
-
-
-implements the selection sort   
-
-#### Parameters
-name | description | default
---- | --- | ---
-lst | unsorted list of numbers | 
+fromTower |  | 
+toTower |  | 
+tempTower |  | 
 
 
 
@@ -282,33 +242,6 @@ arlist |  |
 name | description | default
 --- | --- | ---
 arlist |  | 
-
-
-
-
-
-### merge
-
-
-
-#### Parameters
-name | description | default
---- | --- | ---
-A |  | 
-B |  | 
-
-
-
-
-
-### mergesort
-
-
-
-#### Parameters
-name | description | default
---- | --- | ---
-ulist |  | 
 
 
 
@@ -367,6 +300,73 @@ name | description | default
 arr |  | 
 low |  | 
 high |  | 
+
+
+
+
+
+### selectionsort
+
+
+
+#### Parameters
+name | description | default
+--- | --- | ---
+alist |  | 
+
+
+
+
+
+### selectsort
+
+
+
+#### Parameters
+name | description | default
+--- | --- | ---
+alist |  | 
+
+
+
+
+
+### selectsort
+
+
+implements the selection sort   
+
+#### Parameters
+name | description | default
+--- | --- | ---
+lst | unsorted list of numbers | 
+
+
+
+
+
+### merge
+
+
+
+#### Parameters
+name | description | default
+--- | --- | ---
+A |  | 
+B |  | 
+
+
+
+
+
+### mergesort
+
+
+
+#### Parameters
+name | description | default
+--- | --- | ---
+ulist |  | 
 
 
 
